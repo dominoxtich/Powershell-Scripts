@@ -1,0 +1,1 @@
+Script created for buisness related topics, such as Updates,Listing available updates,Creating raports,about virtual machines posted mainly on VMware infrastructure and Monitoring networking on windows servers 
